@@ -1,0 +1,6 @@
+{
+  "name": "Treina IA",
+  "description": "Landing Page de alta conversão para a plataforma Treina IA - plataforma para gestão do conhecimento interno empresarial, construindo POPs e Treinamentos Internos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
