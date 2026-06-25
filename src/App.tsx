@@ -1065,7 +1065,7 @@ export default function App() {
                 <img 
                   src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco/v1437638318/xtcl0m1puz895asayk6g.png"
                   alt="ABStartups" 
-                  className="h-8 object-contain filter grayscale" 
+                  className="h-16 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
                 <span className="font-mono text-[9px] text-gray-400">ABSTARTUPS</span>
