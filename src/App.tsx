@@ -160,7 +160,7 @@ export default function App() {
               <div className="absolute inset-0 bg-blue-500 rounded-lg blur-sm opacity-50 group-hover:opacity-100 transition-opacity"></div>
               {/* Image Placeholder for Logo - Customizable by user */}
               <img 
-                src="logotreinaia.png" 
+                src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=80&q=80" 
                 alt="Treina IA Logo" 
                 className="relative h-9 w-9 rounded-lg object-cover border border-blue-500/50" 
                 referrerPolicy="no-referrer"
@@ -1063,7 +1063,7 @@ export default function App() {
               {/* Partner 2: ABStartups */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="abstartups.png" 
+                  src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco/v1437638318/xtcl0m1puz895asayk6g.png" 
                   alt="ABStartups" 
                   className="h-8 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
@@ -1074,7 +1074,7 @@ export default function App() {
               {/* Partner 3: Nexus Lab */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="nexuslab.png" 
+                  src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=120&q=80" 
                   alt="NexusLab" 
                   className="h-8 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
@@ -1085,7 +1085,7 @@ export default function App() {
               {/* Partner 4: PIT */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="logopit.png" 
+                  src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?auto=format&fit=crop&w=120&q=80" 
                   alt="PIT" 
                   className="h-8 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
