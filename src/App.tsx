@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { 
-  Mic, 
+  Mic,
   Cpu, 
   Layers, 
   ArrowRight, 
@@ -30,7 +30,7 @@ import {
 const SOURCE_PRESETS = [
   {
     id: "whatsapp",
-    label: "🎙️ Áudio de WhatsApp",
+    label: "🎙️ Áudio no App",
     desc: "Áudio do supervisor na oficina",
     rawContent: "Rapaziada, para regular a prensa hidráulica de 50 toneladas, primeiro desliga o disjuntor principal por segurança. Depois, confere o nível do óleo no manômetro lateral. Se tiver abaixo de 20 bar, completa. Coloca os óculos de proteção e a luva de raspa antes de acionar a válvula verde de teste.",
     industry: "Metalurgia & Usinagem"
@@ -667,7 +667,7 @@ export default function App() {
               <ul className="mt-5 space-y-3 text-xs text-gray-300">
                 <li className="flex items-start gap-2.5">
                   <span className="w-1.5 h-1.5 bg-blue-500 rounded-full mt-1.5 flex-shrink-0"></span>
-                  <span>A base de conhecimento operacional é extraída do WhatsApp ou rascunhos em minutos.</span>
+                  <span>A base de conhecimento operacional é extraída do App ou rascunhos em minutos.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="w-1.5 h-1.5 bg-blue-500 rounded-full mt-1.5 flex-shrink-0"></span>
@@ -716,7 +716,7 @@ export default function App() {
               Envie o Rascunho, a IA Estrutura
             </p>
             <p className="text-sm text-gray-400 leading-relaxed">
-              Faça o upload de áudios do WhatsApp, rascunhos rasgados ou grave o supervisor explicando o processo na prática. Nosso algoritmo processa dialetos e ruídos operacionais facilmente.
+              Faça o upload de áudios do no App, rascunhos rasgados ou grave o supervisor explicando o processo na prática. Nosso algoritmo processa dialetos e ruídos operacionais facilmente.
             </p>
           </div>
 
