@@ -1052,7 +1052,7 @@ export default function App() {
               {/* Partner 1: Sebrae */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sebrae_logo.svg/2560px-Sebrae_logo.svg.png" 
+                  src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/sebrae.png" 
                   alt="Sebrae" 
                   className="h-16 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
@@ -1063,7 +1063,7 @@ export default function App() {
               {/* Partner 2: ABStartups */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco/v1437638318/xtcl0m1puz895asayk6g.png"
+                  src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/abstartups.png"
                   alt="ABStartups" 
                   className="h-16 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
@@ -1085,9 +1085,9 @@ export default function App() {
               {/* Partner 4: PIT */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?auto=format&fit=crop&w=120&q=80" 
+                  src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/logopit.png" 
                   alt="PIT" 
-                  className="h-8 object-contain filter grayscale" 
+                  className="h-16 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
                 <span className="font-mono text-[9px] text-gray-400">PIT</span>
