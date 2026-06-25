@@ -160,7 +160,7 @@ export default function App() {
               <div className="absolute inset-0 bg-blue-500 rounded-lg blur-sm opacity-50 group-hover:opacity-100 transition-opacity"></div>
               {/* Image Placeholder for Logo - Customizable by user */}
               <img 
-                src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=80&q=80" 
+                src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/logotreinaia.png" 
                 alt="Treina IA Logo" 
                 className="relative h-9 w-9 rounded-lg object-cover border border-blue-500/50" 
                 referrerPolicy="no-referrer"
@@ -1054,7 +1054,7 @@ export default function App() {
                 <img 
                   src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/sebrae.png" 
                   alt="Sebrae" 
-                  className="h-16 object-contain filter grayscale" 
+                  className="h-25 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
                 <span className="font-mono text-[9px] text-gray-400">SEBRAE</span>
@@ -1065,7 +1065,7 @@ export default function App() {
                 <img 
                   src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/abstartups.png"
                   alt="ABStartups" 
-                  className="h-16 object-contain filter grayscale" 
+                  className="h-25 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
                 <span className="font-mono text-[9px] text-gray-400">ABSTARTUPS</span>
@@ -1076,7 +1076,7 @@ export default function App() {
                 <img 
                   src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/nexuslab.png" 
                   alt="NexusLab" 
-                  className="h-16 object-contain filter grayscale" 
+                  className="h-25 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
                 <span className="font-mono text-[9px] text-gray-400">NEXUS LAB</span>
@@ -1087,7 +1087,7 @@ export default function App() {
                 <img 
                   src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/logopit.png" 
                   alt="PIT" 
-                  className="h-16 object-contain filter grayscale" 
+                  className="h-25 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
                 <span className="font-mono text-[9px] text-gray-400">PIT</span>
