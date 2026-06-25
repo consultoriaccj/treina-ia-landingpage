@@ -162,7 +162,7 @@ export default function App() {
               <img 
                 src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/logotreinaia.png" 
                 alt="Treina IA Logo" 
-                className="relative h-9 w-9 rounded-lg object-cover border border-blue-500/50" 
+                className="relative h-15 w-15 rounded-lg object-cover border border-blue-500/50" 
                 referrerPolicy="no-referrer"
               />
             </div>
@@ -1054,7 +1054,7 @@ export default function App() {
                 <img 
                   src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/sebrae.png" 
                   alt="Sebrae" 
-                  className="h-25 object-contain filter grayscale" 
+                  className="h-40 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
                 <span className="font-mono text-[9px] text-gray-400">SEBRAE</span>
@@ -1065,7 +1065,7 @@ export default function App() {
                 <img 
                   src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/abstartups.png"
                   alt="ABStartups" 
-                  className="h-25 object-contain filter grayscale" 
+                  className="h-40 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
                 <span className="font-mono text-[9px] text-gray-400">ABSTARTUPS</span>
@@ -1076,7 +1076,7 @@ export default function App() {
                 <img 
                   src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/nexuslab.png" 
                   alt="NexusLab" 
-                  className="h-25 object-contain filter grayscale" 
+                  className="h-40 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
                 <span className="font-mono text-[9px] text-gray-400">NEXUS LAB</span>
@@ -1087,7 +1087,7 @@ export default function App() {
                 <img 
                   src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/logopit.png" 
                   alt="PIT" 
-                  className="h-25 object-contain filter grayscale" 
+                  className="h-40 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
                 <span className="font-mono text-[9px] text-gray-400">PIT</span>
