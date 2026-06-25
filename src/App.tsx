@@ -1052,7 +1052,7 @@ export default function App() {
               {/* Partner 1: Sebrae */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="https://github.com/consultoriaccj/treina-ia-landingpage/blob/main/sebrae.png" 
+                  src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/sebrae.png" 
                   alt="Sebrae" 
                   className="h-8 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
