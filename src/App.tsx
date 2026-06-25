@@ -1052,7 +1052,7 @@ export default function App() {
               {/* Partner 1: Sebrae */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="images/sebrae.png" 
+                  src="/sebrae.png" 
                   alt="Sebrae Logo Support" 
                   className="h-8 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
@@ -1063,7 +1063,7 @@ export default function App() {
               {/* Partner 2: ABStartups */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="images/abstartups.png" 
+                  src="/abstartups.png" 
                   alt="ABStartups Support Logo" 
                   className="h-8 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
@@ -1074,7 +1074,7 @@ export default function App() {
               {/* Partner 3: Nexus Lab */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="images/nexuslab.png" 
+                  src="/nexuslab.png" 
                   alt="Nexus Lab Support Logo" 
                   className="h-8 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
@@ -1085,7 +1085,7 @@ export default function App() {
               {/* Partner 4: PIT */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="images/logopit.png" 
+                  src="/logopit.png" 
                   alt="PIT Support Logo" 
                   className="h-8 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
@@ -1104,7 +1104,7 @@ export default function App() {
             
             <div className="flex items-center gap-3">
               <img 
-                src="images/logotreinaia.png" 
+                src="/logotreinaia.png" 
                 alt="Treina IA Small Logo" 
                 className="h-6 w-6 rounded object-cover filter grayscale"
                 referrerPolicy="no-referrer"
