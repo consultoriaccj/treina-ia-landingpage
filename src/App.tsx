@@ -292,7 +292,7 @@ export default function App() {
             </div>
 
             {/* Main title */}
-            <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-white leading-tight">
+            <h1 section id="solucao" className="py-24 bg-white relative overflow-hidden" className="font-display text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-white leading-tight">
               Clareza em cada treinamento. <br className="hidden lg:inline" />
               <span className="bg-gradient-to-r from-blue-400 via-blue-500 to-indigo-400 bg-clip-text text-transparent underline decoration-blue-500/40 decoration-4 underline-offset-8">
                 Segurança em cada processo.
