@@ -1074,9 +1074,9 @@ export default function App() {
               {/* Partner 3: Nexus Lab */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=120&q=80" 
+                  src="https://raw.githubusercontent.com/consultoriaccj/treina-ia-landingpage/main/nexuslab.png" 
                   alt="NexusLab" 
-                  className="h-8 object-contain filter grayscale" 
+                  className="h-16 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
                 <span className="font-mono text-[9px] text-gray-400">NEXUS LAB</span>
