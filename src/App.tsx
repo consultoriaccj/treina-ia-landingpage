@@ -403,7 +403,6 @@ export default function App() {
                       {selectedPreset.rawContent}
                     </p>
                   </div>
-
                   {/* Action button */}
                   <button
                     onClick={handleStartSimulation}
@@ -1138,7 +1137,7 @@ export default function App() {
 
             {/* Modal content */}
             {!leadSubmitted ? (
-              <form action="https://formspree.io/f/SEU_CODIGO_AQUI" method="POST" className="space-y-4">
+              <form action="https://formspree.io/f/xqevplaj" method="POST" className="space-y-4">
                 
                 <div className="space-y-1">
                   <span className="text-blue-500 font-mono text-[10px] uppercase font-bold tracking-widest">Acesso Exclusivo</span>
