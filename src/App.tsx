@@ -716,7 +716,7 @@ export default function App() {
               Envie o Rascunho, a IA Estrutura
             </p>
             <p className="text-sm text-gray-400 leading-relaxed">
-              Faça o upload de áudios do no App, rascunhos rasgados ou grave o supervisor explicando o processo na prática. Nosso algoritmo processa dialetos e ruídos operacionais facilmente.
+              Faça o upload de áudios no App, rascunhos rasgados ou grave o supervisor explicando o processo na prática. Nosso algoritmo processa dialetos e ruídos operacionais facilmente.
             </p>
           </div>
 
