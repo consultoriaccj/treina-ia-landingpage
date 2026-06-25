@@ -160,7 +160,7 @@ export default function App() {
               <div className="absolute inset-0 bg-blue-500 rounded-lg blur-sm opacity-50 group-hover:opacity-100 transition-opacity"></div>
               {/* Image Placeholder for Logo - Customizable by user */}
               <img 
-                src="https://pub-8422aa9800e2418e8055050f24e93fb2.r2.dev/treinaia-logo.png" 
+                src="logotreinaia.png" 
                 alt="Treina IA Logo" 
                 className="relative h-9 w-9 rounded-lg object-cover border border-blue-500/50" 
                 referrerPolicy="no-referrer"
@@ -1052,8 +1052,8 @@ export default function App() {
               {/* Partner 1: Sebrae */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="https://pub-8422aa9800e2418e8055050f24e93fb2.r2.dev/sebrae-logo.png" 
-                  alt="Sebrae Logo Support" 
+                  src="sebrae.png" 
+                  alt="Sebrae" 
                   className="h-8 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
@@ -1063,8 +1063,8 @@ export default function App() {
               {/* Partner 2: ABStartups */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="https://pub-8422aa9800e2418e8055050f24e93fb2.r2.dev/abstartups.png" 
-                  alt="ABStartups Support Logo" 
+                  src="abstartups.png" 
+                  alt="ABStartups" 
                   className="h-8 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
@@ -1074,8 +1074,8 @@ export default function App() {
               {/* Partner 3: Nexus Lab */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src=""https://pub-8422aa9800e2418e8055050f24e93fb2.r2.dev/nexuslab-logo.png" 
-                  alt="Nexus Lab Support Logo" 
+                  src="nexuslab.png" 
+                  alt="NexusLab" 
                   className="h-8 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
@@ -1085,8 +1085,8 @@ export default function App() {
               {/* Partner 4: PIT */}
               <div className="flex flex-col items-center gap-1 border border-slate-900 p-3 rounded-lg bg-slate-900/10 w-full">
                 <img 
-                  src="https://pub-8422aa9800e2418e8055050f24e93fb2.r2.dev/pit-logo.png" 
-                  alt="PIT Support Logo" 
+                  src="logopit.png" 
+                  alt="PIT" 
                   className="h-8 object-contain filter grayscale" 
                   referrerPolicy="no-referrer"
                 />
@@ -1104,7 +1104,7 @@ export default function App() {
             
             <div className="flex items-center gap-3">
               <img 
-                src="/logotreinaia.png" 
+                src="logotreinaia.png" 
                 alt="Treina IA Small Logo" 
                 className="h-6 w-6 rounded object-cover filter grayscale"
                 referrerPolicy="no-referrer"
